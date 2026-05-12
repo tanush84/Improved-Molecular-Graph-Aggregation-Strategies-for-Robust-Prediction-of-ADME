@@ -48,11 +48,10 @@ Due to proprietary software integration and internal deployment restrictions ass
 
 However:
 
-Complete model training workflows,
-Aggregation mechanism implementations,
-Evaluation pipelines,
-Environment configuration files,
-and benchmarking notebooks
+- Complete model training workflows for Descriptor based Models is provided. 
+- Aggregation mechanism implementations and Chemprop is provided. 
+- Evaluation pipelines. 
+- Environment configuration files,and benchmarking notebooks
 
 are fully provided to ensure reproducibility of the reported experiments.
 
