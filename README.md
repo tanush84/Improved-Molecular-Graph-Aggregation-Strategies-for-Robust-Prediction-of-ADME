@@ -10,13 +10,15 @@ To enhance representation learning, we systematically investigate adaptive aggre
 
 The following endpoints were benchmarked:
 
-Endpoint	Description
-LogFup	Plasma Protein Binding
-CaCO2Papp	Caco-2 Permeability
-LogD	Lipophilicity
-LogCL	Intrinsic Clearance
-pKa	Acid Dissociation Constant
-pKb	Base Dissociation Constant
+| Endpoint  | Description                |
+| --------- | -------------------------- |
+| LogFup    | Plasma Protein Binding     |
+| CaCO2Papp | Caco-2 Permeability        |
+| LogD      | Lipophilicity              |
+| LogCL     | Intrinsic Clearance        |
+| pKa       | Acid Dissociation Constant |
+| pKb       | Base Dissociation Constant |
+
 
 Molecular Representation Strategies
 Descriptor-Based Features
