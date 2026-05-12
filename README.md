@@ -40,7 +40,9 @@ Gated Attentive Aggregation
 
 Installation
 Create Conda Environment for descriptor based models and chemprop based model using descriptorenv.yaml and chempropenv.yaml files.
-conda env create -f NameOfEnvironment.yml.                                
+**
+conda env create -f NameOfEnvironment.yaml  **                              
+
 Training notebooks are provided for: Base descriptor based model training as well as Chemprop based Model training for each 6 parameters. 
 Due to proprietary software integration and internal deployment restrictions associated with in-house ADMET modeling workflows, pretrained production-level model checkpoints and certain advanced deployment utilities cannot currently be redistributed publicly.
 
