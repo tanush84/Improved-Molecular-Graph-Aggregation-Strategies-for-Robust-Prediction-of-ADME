@@ -2,7 +2,7 @@ Improved Molecular Graph Aggregation Strategies for Robust Prediction of ADME an
 
 This repository contains the implementation, benchmarking framework, and reproducible training workflows associated with the manuscript:
 
-“Improved Molecular Graph Aggregation Strategies for Robust Prediction of ADME and Pharmacokinetic Properties”
+**“Improved Molecular Graph Aggregation Strategies for Robust Prediction of ADME and Pharmacokinetic Properties”**
 
 The study systematically evaluates descriptor-based machine learning models and graph neural network (GNN)-based molecular representation learning strategies for predicting multiple ADME and pharmacokinetic endpoints. Particular emphasis is placed on investigating the impact of adaptive aggregation mechanisms within the Directed Message Passing Neural Network (D-MPNN) framework.
 
