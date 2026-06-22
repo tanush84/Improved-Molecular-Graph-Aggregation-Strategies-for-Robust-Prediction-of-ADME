@@ -43,7 +43,7 @@ Create Conda Environment for descriptor based models and chemprop based model us
 **
 conda env create -f NameOfEnvironment.yaml  **                              
 
-Training notebooks are provided for: Base descriptor based model training as well as Chemprop based Model training for each 6 parameters. 
+Training notebooks are provided for: Base descriptor based model training as well as Chemprop based Model training for each 6 parameters. All train, test and validation splits for each parameter has been separately added in splits sub-directory within data directory.
 Due to proprietary software integration and internal deployment restrictions associated with in-house ADMET modeling workflows, pretrained production-level model checkpoints and certain advanced deployment utilities cannot currently be redistributed publicly.
 
 However:
